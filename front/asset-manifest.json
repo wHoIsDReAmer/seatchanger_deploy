@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0ed6831.css",
+    "main.js": "/static/js/main.3d5b340c.js",
+    "static/media/AppleSDGothicNeoB.woff2": "/static/media/AppleSDGothicNeoB.e83a74f495a36b548536.woff2",
+    "static/media/AppleSDGothicNeoR.woff2": "/static/media/AppleSDGothicNeoR.dd6ef6d0334b95873570.woff2",
+    "static/media/logo.png": "/static/media/logo.1991bda90ebde5ed2266.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f0ed6831.css",
+    "static/js/main.3d5b340c.js"
+  ]
+}
